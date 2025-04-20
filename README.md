@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Python Backend<br>👯 I’m looking to collaborate on Open-source projects<br>🤝 I’m looking for help with getting started with ML<br>🌱 I’m currently learning ML and OpenCV<br>💬 Ask me about architecture and DB design<br>⚡ Fun fact: I can solve a Rubik's cube in under 30 seconds!
+🔭 I’m currently working on Python Backend<br>👯 I’m looking to collaborate on Open-source projects<br>🤝 I’m looking for help with getting started with ML<br>🌱 I’m currently learning vLLM, Transformers etc.<br>💬 Ask me about architecture and DB design<br>⚡ Fun fact: I can solve a Rubik's cube in under 30 seconds!
 
 
 ## 🌐 Socials:
